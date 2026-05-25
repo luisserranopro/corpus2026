@@ -1,6 +1,6 @@
 # Feria del Corpus - Granada 2026 💃🍷
 
-¡Bienvenido a la aplicación móvil y PWA oficial del **Corpus de Granada 2026**! 
+¡Bienvenido a mi aplicación móvil y PWA del **Corpus de Granada 2026**! 
 
 Esta aplicación ha sido diseñada y desarrollada en **Flutter (Dart)** como un prototipo interactivo para ayudar a granadinos y visitantes a exprimir al máximo la Fiesta Mayor de la ciudad. Cuenta con un diseño flamenco tradicional (patrón de lunares andaluces en la interfaz) y mecánicas modernas de gamificación para incentivar la visita a las casetas.
 
