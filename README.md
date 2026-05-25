@@ -18,7 +18,7 @@ Esta aplicación ha sido diseñada y desarrollada en **Flutter (Dart)** como un 
 * Buscador en tiempo real y filtros rápidos por tipología.
 * **Pasaporte de Sello Digital**: Un sistema que permite al usuario sellar la caseta que está visitando con su huella, registrando la fecha y hora de su visita en el almacenamiento local.
 
-### 3. 📅 Programa Oficial & Búsqueda Cruzada
+### 3. 📅 Programa & Búsqueda Cruzada
 * Agenda completa del Corpus organizada cronológicamente.
 * Buscador integrado para encontrar eventos de casetas específicas.
 * **Búsqueda Cruzada**: Al pulsar sobre cualquier evento del programa, se abre un panel inferior que busca la caseta en la base de datos y te dice exactamente en qué calle y módulo del ferial se celebra.
