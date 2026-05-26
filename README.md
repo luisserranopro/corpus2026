@@ -50,5 +50,5 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local:
 
 ### 1. Clonar el repositorio
 ```bash
-git clone [https://github.com/tu-usuario/feria-del-corpus-2026.git](https://github.com/tu-usuario/feria-del-corpus-2026.git)
-cd feria-del-corpus-2026
+git clone [https://github.com/luisserranopro/corpus2026.git](https://github.com/luisserranopro/corpus2026.git)
+cd corpus2026
